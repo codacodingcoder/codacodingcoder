@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codacodingcoder
-- 👀 I’m interested in music and society.
-- 🌱 I’m currently learning python for data analysis.
-- 💞️ I’m looking to collaborate on potential project ideas to analyze sentiments of the nation's citizens' thoughts.
+- 👀 I’m interested in music, nature, and society!
+- 🌱 I’m currently learning to code python for data analysis.
+- 💞️ I’m looking to collaborate and add my help to projects!
 - 📫 How to reach me - through my email @ brandopark@icloud.com
 
 <!---
